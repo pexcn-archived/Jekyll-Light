@@ -428,7 +428,7 @@ footer {
 	color: #00D809;
 }
 
-#img {
+a.fancybox {
 	margin: 0;
 	padding: 0;
 	border-bottom: 0;
@@ -684,9 +684,6 @@ pre code {
 	}
 	code {
 		word-break: break-all;
-	}
-	img {
-		border-radius: 2px;
 	}
 	.footnotes * {
 		font-size: 15px;
