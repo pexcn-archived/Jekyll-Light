@@ -557,6 +557,11 @@ pre code {
 	.pagination-item {
 		padding: 8px 40px;
 	}
+	video {
+		width: 100%;
+		max-width: 100%;
+		height: auto;
+	}
 }
 
 @media (max-width: 1085px) {
