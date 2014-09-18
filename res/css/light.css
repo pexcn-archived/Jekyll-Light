@@ -608,7 +608,6 @@ pre code {
 @media (max-width: 875px) {
 	.sidebar {
 		text-align: center;
-		background: #31373d;
 		position: absolute;
 		width: 100%;
 		height: 510px;
