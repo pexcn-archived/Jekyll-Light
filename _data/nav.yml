@@ -1,0 +1,20 @@
+- href: /page/timing.html
+  tips: 时间轴
+  icon: fa fa-clock-o
+  title: 时间轴
+
+- href: /page/category.html
+  tips: 分类
+  icon: fa fa-book
+  title: 分类
+
+- href: /life/index.html
+  tips: 记录
+  icon: fa fa-eyedropper
+  title: 记录
+  newblank: true
+
+- href: /page/about.html
+  tips: 关于
+  icon: fa fa-paper-plane-o
+  title: 关于
