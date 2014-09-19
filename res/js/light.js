@@ -55,14 +55,12 @@ $(document).ready(function(){
 		"/res/img/bg/02.jpg",
 		"/res/img/bg/03.jpg",
 		"/res/img/bg/04.jpg",
-		"/res/img/bg/05.jpg",
-		"/res/img/bg/06.jpg",
 	];
 	images.sort(function() {
 		return Math.random() > 0.5 ? -1 : 1;
 	});
 	$(".sidebar").backstretch(images, {
 		fade: 1500,
-		duration: 10000,
+		duration: 15000,
 	});
 });

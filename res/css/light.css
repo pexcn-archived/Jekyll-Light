@@ -136,10 +136,11 @@ a:link {
 .title a {
 	color: #fff;
 	font-weight: 500;
-	transition: color 0.3s;
-	-webkit-transition: color 0.3s;
-	-moz-transition: color 0.3s;
-	-o-transition: color 0.3s;
+	text-shadow: 0 0 5px;
+	transition: color 0.5s;
+	-webkit-transition: color 0.5s;
+	-moz-transition: color 0.5s;
+	-o-transition: color 0.5s;
 }
 
 .title a:hover {
@@ -148,8 +149,9 @@ a:link {
 
 .sub-title {
 	font-family: segoepr;
-	color: darkgray;
+	color: #E6E6E6;
 	font-style: italic;
+	text-shadow: 0px 0px 5px;
 	margin-top: -8%;
 	margin-bottom: 0;
 	letter-spacing: 0;
