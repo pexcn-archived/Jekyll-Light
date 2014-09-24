@@ -17,3 +17,6 @@ author:
     email:                                               # 邮箱地址
     weibo:                                               # 微博地址
     github:                                              # GitHub地址
+    douban:
+        name: pexcn                                      # 豆瓣地址名称
+        key: 0acf12df294d2460206d389d7be76d20            # 豆瓣API Key

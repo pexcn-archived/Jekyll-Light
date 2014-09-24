@@ -627,11 +627,15 @@ pre code {
 }
 
 @media (max-width: 875px) {
+	.profilepic img {
+		height:130px;
+		width: 130px;
+	}
 	.sidebar {
 		text-align: center;
 		position: absolute;
 		width: 100%;
-		height: 515px;
+		height: 535px;
 	}
 	.profilepic {
 		margin-top: 10px;
@@ -669,7 +673,7 @@ pre code {
 		margin-top: 10px;
 	}
 	.main {
-		margin-top: 525px;
+		margin-top: 545px;
 		margin-left: 1px;
 		margin-right: 2px;
 		padding: 0;
