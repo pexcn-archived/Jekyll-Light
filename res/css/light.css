@@ -115,22 +115,27 @@ a:link {
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
-	transition: border-radius 0.5s;
-	-webkit-transition: border-radius 0.5s;
-	-moz-transition: border-radius 0.5s;
-	-o-transition: border-radius 0.5s;
+	transition: transform 0.8s ease-out, border-radius 0.5s ease-out;
+    -webkit-transition: -webkit-transform 0.8s ease-out, border-radius 0.5s ease-out;
+	-moz-transition: -moz-transform 0.8s ease-out, border-radius 0.5s ease-out;
+	-o-transition: -moz-transform 0.8s ease-out, border-radius 0.5s ease-out;
 }
 
 .profilepic img:hover {
+    transform: rotateZ(360deg);
+    -webkit-transform: rotateZ(360deg);
+    -moz-transform: rotateZ(360deg);
+    -o-transform: rotateZ(360deg);
 	border-radius: 10%;
 	-moz-border-radius: 10%;
 	-webkit-border-radius: 10%;
+	-o-border-radius: 10%;
 }
 
 .title {
 	font-family: segoepr;
 	font-size: 40px;
-	margin-top: 0%;
+	margin-top: -3%;
 }
 
 .title a {
@@ -149,10 +154,10 @@ a:link {
 
 .sub-title {
 	font-family: segoepr;
-	color: #E6E6E6;
+	color: lightgray;
 	font-style: italic;
-	text-shadow: 0px 0px 5px;
-	margin-top: -8%;
+	text-shadow: 0px 0px 2px;
+	margin-top: -9%;
 	margin-bottom: 0;
 	letter-spacing: 0;
 }
@@ -301,7 +306,7 @@ a:link {
 .post-meta {
 	color: #999;
 	font-size: 18px;
-	margin-top: -10px;
+	margin-top: -20px;
 	margin-bottom: 30px;
 	letter-spacing: 1px;
 }
@@ -396,6 +401,20 @@ footer {
 
 .ds-powered-by {
 	font-size:0px !important;
+}
+
+#ds-reset .ds-avatar img {
+    transition: transform 0.7s ease-out;
+    -webkit-transition: -webkit-transform 0.7s ease-out;
+	-moz-transition: -moz-transform 0.7s ease-out;
+	-o-transition: -moz-transform 0.7s ease-out;
+}
+
+#ds-reset .ds-avatar img:hover {
+    transform: rotateZ(360deg);
+    -webkit-transform: rotateZ(360deg);
+    -moz-transform: rotateZ(360deg);
+    -o-transform: rotateZ(360deg);
 }
 
 .bdshare_dialog_bottom {
@@ -524,6 +543,10 @@ pre code {
 }
 
 @media (max-width: 1300px) {
+	.profilepic img {
+		height: 140px;
+		width: 140px;
+	}
 	.title {
 		font-size: 35px;
 	}
@@ -537,8 +560,8 @@ pre code {
 
 @media (max-width: 1160px) {
 	.profilepic img {
-		height:140px;
-		width: 140px;
+		height: 130px;
+		width: 130px;
 	}
 	.title {
 		font-size: 32px;
@@ -561,8 +584,8 @@ pre code {
 
 @media (max-width: 1085px) {
 	.profilepic img {
-		height:130px;
-		width: 130px;
+		height:120px;
+		width: 120px;
 	}
 	.title {
 		font-size: 30px;
@@ -579,6 +602,10 @@ pre code {
 }
 
 @media (max-width: 975px) {
+	.profilepic img {
+		height:110px;
+		width: 110px;
+	}
 	.title {
 		font-size: 28px;
 	}
@@ -586,7 +613,7 @@ pre code {
 		font-size: 16px;
 	}
 	#nav {
-		margin: 7% 0 7% -33%;
+		margin: 6% 0 6% -33%;
 	}
 	#nav ul {
 		font-size: 17px;
@@ -604,7 +631,7 @@ pre code {
 		text-align: center;
 		position: absolute;
 		width: 100%;
-		height: 490px;
+		height: 515px;
 	}
 	.profilepic {
 		margin-top: 10px;
@@ -642,7 +669,7 @@ pre code {
 		margin-top: 10px;
 	}
 	.main {
-		margin-top: 500px;
+		margin-top: 525px;
 		margin-left: 1px;
 		margin-right: 2px;
 		padding: 0;
@@ -654,6 +681,7 @@ pre code {
 	.post-meta {
 		font-size: 16px;
 		letter-spacing: 0;
+		margin-top: -15px;
 	}
 	.post-main {
 		margin-top: -15px;
