@@ -79,6 +79,22 @@ strong, b {
 	color: #525d67;
 }
 
+table {
+	border-collapse: collapse;
+	margin-bottom: 25px;
+	margin-top: -10px;
+}
+
+th {
+	padding: 8px 20px;
+	border: 1px solid #ddd;
+}
+
+td {
+	padding: 6px 20px;
+	border: 1px solid #ddd;
+}
+
 #blog {
 	font-family: "Microsoft YaHei", SimHei, "Ubuntu Mono", Ubuntu, "Ubuntu Light", Arial, "STHeiti", Corbel, sans-serif;
 }
@@ -112,6 +128,7 @@ a:link {
 .profilepic img {
 	height: 150px;
 	width: 150px;
+	border: 4px solid rgba(0,100,200,0.5);
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
@@ -729,6 +746,10 @@ pre code {
 	}
 	footer {
 		margin-top: 6em;
+	}
+	th,td {
+		font-size: 16px;
+		padding: 4px 8px;
 	}
 }
 

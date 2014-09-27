@@ -217,6 +217,22 @@ sup {
 	border: 0;
 }
 
+table {
+	border-collapse: collapse;
+	margin-bottom: 25px;
+	margin-top: -10px;
+}
+
+th {
+	padding: 8px 20px;
+	border: 1px solid #ddd;
+}
+
+td {
+	padding: 6px 20px;
+	border: 1px solid #ddd;
+}
+
 #rocket {
 	opacity: 0.8;
 }
@@ -312,6 +328,10 @@ pre code {
 	}
 	.footnotes ol li,.footnotes p {
 		font-size: 15px;
+	}
+	th,td {
+		font-size: 16px;
+		padding: 4px 8px;
 	}
 }
 
