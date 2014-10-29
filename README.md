@@ -92,11 +92,11 @@ _posts文件夹下的markdown文件的layout项改为`post`，使用简版页面
 
 ## 截图
 
-![01](https://raw.githubusercontent.com/pexcn/Jekyll-Light/dev/DEMO/01.png)
-![02](https://raw.githubusercontent.com/pexcn/Jekyll-Light/dev/DEMO/02.png)
-![03](https://raw.githubusercontent.com/pexcn/Jekyll-Light/dev/DEMO/03.png)
-![04](https://raw.githubusercontent.com/pexcn/Jekyll-Light/dev/DEMO/04.png)
-![05](https://raw.githubusercontent.com/pexcn/Jekyll-Light/dev/DEMO/05.png)
+![01](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/01.jpg)
+![02](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/02.jpg)
+![03](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/03.jpg)
+![04](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/04.jpg)
+![05](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/05.jpg)
 
 
 ## 许可证
