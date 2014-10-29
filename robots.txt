@@ -1,5 +1,3 @@
 User-Agent: *
 
-Disallow: /life/2014/
-
 Sitemap: http://pexcn.tk/sitemap.txt
