@@ -98,7 +98,6 @@ _posts文件夹下的markdown文件的layout项改为`post`，使用简版页面
 ![04](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/04.jpg)
 ![05](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/05.jpg)
 
-
 ## 许可证
 
 [**GNU GPL v3**](http://www.gnu.org/licenses/gpl-3.0.html)
