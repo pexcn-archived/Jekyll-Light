@@ -3,7 +3,6 @@ Jekyll Light
 
 一个优雅的Jekyll主题。。。(第一次做主题，虽然代码不优雅，关键是看起来很优雅:stuck_out_tongue_closed_eyes:)
 
-[![Dependency Status][depstat-image]][depstat-url]
 [![License][license-image]][license-url]
 
 ----------
@@ -110,7 +109,7 @@ _posts文件夹下的markdown文件的layout项改为`post`，使用简版页面
 
 ## 许可证
 
-[**GNU GPL v3**](http://www.gnu.org/licenses/gpl-3.0.html)
+[![License][license-image]][license-url]
 
 
 [depstat-url]: https://gemnasium.com/twada/power-assert
