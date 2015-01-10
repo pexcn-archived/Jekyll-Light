@@ -117,4 +117,4 @@ _posts文件夹下的markdown文件的layout项改为`post`，使用简版页面
 [depstat-image]: https://gemnasium.com/twada/power-assert.svg
 
 [license-url]: http://www.gnu.org/licenses/gpl-3.0.html
-[license-image]: https://img.shields.io/badge/License-GPLv3-blue.svg
+[license-image]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat
