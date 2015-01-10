@@ -1,3 +1,14 @@
+Jekyll Light
+=============
+
+一个优雅的Jekyll主题。。。(第一次做主题，虽然代码不优雅，关键是看起来很优雅:stuck_out_tongue_closed_eyes:)
+
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![License][license-image]][license-url]
+
+----------
+
 ## 简介
 
 这是一款Jekyll博客主题，叫做Jekyll Light。这是我花了两天时间才重新做好的主题。没有用到任何CSS框架，简洁美观。  
