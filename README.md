@@ -3,6 +3,7 @@ Jekyll Light
 
 一个优雅的Jekyll主题。。。(第一次做主题，虽然代码不优雅，关键是看起来很优雅:stuck_out_tongue_closed_eyes:)
 
+[![Version][version-image]][version-url]
 [![License][license-image]][license-url]
 
 ----------
@@ -112,8 +113,7 @@ _posts文件夹下的markdown文件的layout项改为`post`，使用简版页面
 [![License][license-image]][license-url]
 
 
-[depstat-url]: https://gemnasium.com/twada/power-assert
-[depstat-image]: https://gemnasium.com/twada/power-assert.svg
-
+[version-url]: https://github.com/pexcn/Jekyll-Light/releases
+[version-image]: https://img.shields.io/badge/version-1.3.3-green.svg?style=flat
 [license-url]: http://www.gnu.org/licenses/gpl-3.0.html
 [license-image]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat
