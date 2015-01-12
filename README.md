@@ -11,3 +11,7 @@ Jekyll Light
 [version-image]: https://img.shields.io/badge/version-1.3.3-green.svg?style=flat
 [license-url]: http://www.gnu.org/licenses/gpl-3.0.html
 [license-image]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat
+
+**[中文说明](https://github.com/pexcn/Jekyll-Light/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)**
+
+**[English]()**[待编辑...]
