@@ -5,6 +5,7 @@
 一个优雅的Jekyll主题。由于是第一次做主题，代码不优雅，关键是看起来很优雅:stuck_out_tongue_closed_eyes:  
 当时我花了两天时间才重新做好的主题。没有用到任何CSS框架，其实我是不会用任何的CSS框架，简洁美观。  
 
+
 ## 功能
 * 支持多说评论框
 * 支持百度统计
@@ -76,19 +77,22 @@
 
 ### 生成静态博客
 把你的博客推送到GitHub或者其它支持Jekyll的代码托管网站就可以了。  
-具体可以到[Jekyll官网](http://jekyllrb.com/)或[GitHub Pages](https://pages.github.com/)查看详细教程。
+具体可以到[**Jekyll官网**](http://jekyllrb.com/)或[**GitHub Pages**](https://pages.github.com/)查看详细教程。
+
 
 ## 下载
 Download: [https://github.com/pexcn/Jekyll-Light/releases](https://github.com/pexcn/Jekyll-Light/releases)  
 Source: [https://github.com/pexcn/Jekyll-Light](https://github.com/pexcn/Jekyll-Light)  
 Demo: [Pexcn Blog](http://pexcn.tk)  
 
+
 ## 截图
-![01](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/01.jpg)
-![02](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/02.jpg)
-![03](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/03.jpg)
-![04](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/04.jpg)
-![05](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/DEMO/05.jpg)
+![01](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/WIKI/01.jpg)
+![02](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/WIKI/02.jpg)
+![03](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/WIKI/03.jpg)
+![04](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/WIKI/04.jpg)
+![05](https://raw.githubusercontent.com/pexcn/Jekyll-Light/master/WIKI/05.jpg)
+
 
 ## 许可证
 [![License][license-image]][license-url]
