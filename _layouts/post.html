@@ -7,7 +7,7 @@ post: true
   <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
   <p class="post-meta">
     <i class="fa fa-calendar"></i>
-    {{ page.date | date: "%Y" }}年{{ page.date | date: "%m" }}月{{ page.date | date: "%d" }}日
+    {{ post.date | date: "%Y年%m月%d日" }}
     <i class="space"></i>
     <i class="fa fa-tags"></i>
     <a class="post-category" href="/page/category.html#{{ page.categories }}">{{ page.categories }}</a>	
