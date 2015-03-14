@@ -9,8 +9,10 @@ post: true
     <i class="fa fa-calendar"></i>
     {{ page.date | date: "%Y" }}年{{ page.date | date: "%m" }}月{{ page.date | date: "%d" }}日
     <i class="space"></i>
-    <i class="fa fa-tags"></i>
-    <a class="post-category" href="/page/category.html#{{ page.categories }}">{{ page.categories }}</a>	
+    {% for item in (0..page.categories.size) %}
+    {% unless forloop.last %}<i class="fa fa-tags"></i>{% endunless %}
+    <a class="post-category" href="/page/category.html#{{ page.categories[item] }}">{{ page.categories[item] }}</a>
+    {% endfor %}
   </p>
 </header>
 <div class="post-main">
