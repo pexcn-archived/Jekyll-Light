@@ -138,7 +138,7 @@ p {
 	color:#494949;
 	word-break:break-all;
 }
-p img {
+img {
 	width:100%;
 	height:auto;
 	border-radius:3px;
@@ -289,7 +289,7 @@ pre code {
 	p,blockquote p,li {
 		font-size:16px;
 	}
-	p img {
+	img {
 		border-radius:2px;
 	}
 	code {
