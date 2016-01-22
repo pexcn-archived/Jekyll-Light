@@ -3,6 +3,7 @@ highlighter: pygments
 permalink: blog/:year/:month/:day/:title.html
 paginate: 6
 paginate_path: page/:num
+gems: [jekyll-paginate]
 
 blog:
     name:                                                # 博客名称
